@@ -1,2 +1,1 @@
-# seventh-semester
-NITH CSE Seventh Semester
+<img src="https://raw.githubusercontent.com/avinal/sixth-semester/main/digital_image_processing/practice/the-waiting-puppy.jpg">
